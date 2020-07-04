@@ -5,3 +5,4 @@ authors = ["Julian Møller <git@jumoel.com>"]
 edition = "2018"
 
 [dependencies]
+crossterm = "0.14.2"
